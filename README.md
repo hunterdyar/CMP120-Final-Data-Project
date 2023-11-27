@@ -87,11 +87,11 @@ You are not limited to using only one external module/tool.
 
 ## External Tools
 
-- Pandas
+- Pandas - https://pandas.pydata.org/
   - I would consider this the 'default' for this assignment
-- https://github.com/vinta/awesome-python
+- Various: https://github.com/vinta/awesome-python
 - https://www.nltk.org/ - Natural Language Toolkit
-  - Give me a THOROUGH analysis of the bee movie script.
+  - a THOROUGH analysis of the bee movie script?
 - Web scraping: (Requests, Scrapy, Selenium, Beautiful Soup, Pyspider, playwright)
 
 ## Data sources
