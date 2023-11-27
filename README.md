@@ -40,8 +40,7 @@ The Project:
   - Not just reporting information in the data-set, but evaluating it in some programmatic way? In other words, there's a point?
 
 - At least 3 modules (python files) with clear and meaningful separation of responsibilities. (5%)
-  -  I can make an educated guess about what t
-  - he file contains by the module name, and none of the code inside it will surprise me. You can have as many modules as you want.
+  - I can make an educated guess about what the file contains by the module name, and none of the code inside it will surprise me. You can have as many modules as you want.
   - One module must be main.py, and it must have a main() function that executes your program.
 
 - At least 3 functions that process an input (parameter) into an output (return value) in a way that is useful and re-usable. (5%)
@@ -51,6 +50,7 @@ The Project:
 
 - Implement at least one "reasonably complex algorithm" (5%)
   - A 'reasonably complex algorithm' is defined as an algorithm where you show it to the professor during class workshops, and they go "yes, that is reasonably complex to meet the project requirements".
+ 
 - Other (5%)
   - Code cleanliness, organization, well named files, consistent syntax, clear comments.
   - Nothing leftover or experimental. No large commented out blocks of zombie code. No unused code hanging out.
