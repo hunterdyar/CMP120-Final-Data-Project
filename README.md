@@ -12,9 +12,9 @@ All code files, reamde.txt, and video uploaded to brightspace.
 
 The final project for Python CMP120 is an open-ended data-processing assignment. The goal of this project is threefold:
 
-	1. Demonstrate an understanding and ability to work with python, python syntax, and fundamental programming language features.
-	1. Design, architect, and assemble a reasonably complex, multi-module project from scratch. Demonstrate an understanding of code organization principles and separation of responsibilities.
-	1. Research and work with an external tool/library. Read documentation, and example code intelligently. Demonstrate the ability to remix, refine, and utilize existing code/libraries/modules for your own purposes without getting trapped by it.
+1. Demonstrate an understanding and ability to work with python, python syntax, and fundamental programming language features.
+1. Design, architect, and assemble a reasonably complex, multi-module project from scratch. Demonstrate an understanding of code organization principles and separation of responsibilities.
+1. Research and work with an external tool/library. Read documentation, and example code intelligently. Demonstrate the ability to remix, refine, and utilize existing code/libraries/modules for your own purposes without getting trapped by it.
 
 The Project:
 
