@@ -96,7 +96,6 @@ You are not limited to using only one external module/tool.
 
 ## Data sources
 
-- Sportsipy - https://sportsreference.readthedocs.io/en/stable/
 - Meteostat - https://github.com/meteostat/meteostat-python
 - https://data.fivethirtyeight.com/
 - https://opendata.cityofnewyork.us/
