@@ -93,6 +93,7 @@ You are not limited to using only one external module/tool.
 - https://www.nltk.org/ - Natural Language Toolkit
   - a THOROUGH analysis of the bee movie script?
 - Web scraping: (Requests, Scrapy, Selenium, Beautiful Soup, Pyspider, playwright)
+- Visualization: Seaborn - https://seaborn.pydata.org/
 
 ## Data sources
 
@@ -101,3 +102,4 @@ You are not limited to using only one external module/tool.
 - https://opendata.cityofnewyork.us/
 - https://data.gov/
 - https://pghgishub-pittsburghpa.opendata.arcgis.com/
+
